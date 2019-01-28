@@ -1,0 +1,16 @@
+PODS:
+  - JVSingleParameterInitializable (0.1.0)
+
+DEPENDENCIES:
+  - JVSingleParameterInitializable (from `../`)
+
+EXTERNAL SOURCES:
+  JVSingleParameterInitializable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVSingleParameterInitializable: 1e8901b9821eb5f9108aa65fbef1189a33ecebe2
+
+PODFILE CHECKSUM: a429156e20392f2d9078683aacd8d6764074b577
+
+COCOAPODS: 1.6.0.beta.1

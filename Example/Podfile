@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVSingleParameterInitializable_Tests' do
+  pod 'JVSingleParameterInitializable', :path => '../'
+  
+  
+end
